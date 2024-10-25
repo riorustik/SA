@@ -233,6 +233,9 @@
 ## 4.1 Раздел "Генерация образа" (главная страница)   
 ![{ADBE2EC9-44D6-45B8-AB70-0AC06AB6EBAC}.png](files/adbe2ec9-44d6-45b8-ab70-0ac06ab6ebac.png)    
 ## 4.2 Раздел "Галерея"    
-   
+![{82AA22F4-6F74-4582-A71A-AB289B79B4F4}.png](files/82aa22f4-6f74-4582-a71a-ab289b79b4f4.png)    
+![{8E627BD1-A100-40E6-B86D-BDEF969F59B1}.png](files/8e627bd1-a100-40e6-b86d-bdef969f59b1.png)    
 ## 4.3 Раздел "Аккаунт"   
+![{A145EB33-F5C2-43B1-9D80-F1BB069AADD2}.png](files/a145eb33-f5c2-43b1-9d80-f1bb069aadd2.png)    
+![{7C72E3C6-9FED-4652-BD1E-DD7DCC6C98CD}.png](files/7c72e3c6-9fed-4652-bd1e-dd7dcc6c98cd.png)   
    

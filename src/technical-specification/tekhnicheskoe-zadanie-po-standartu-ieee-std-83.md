@@ -231,7 +231,7 @@
    
 # 4 Приложения   
 ## 4.1 Раздел "Генерация образа" (главная страница)   
-![{ADBE2EC9-44D6-45B8-AB70-0AC06AB6EBAC}.png](files\adbe2ec9-44d6-45b8-ab70-0ac06ab6ebac.png)    
+![{ADBE2EC9-44D6-45B8-AB70-0AC06AB6EBAC}.png](files/adbe2ec9-44d6-45b8-ab70-0ac06ab6ebac.png)    
 ## 4.2 Раздел "Галерея"    
    
 ## 4.3 Раздел "Аккаунт"   
